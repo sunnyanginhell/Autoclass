@@ -1,0 +1,7 @@
+frame: 632
+predicted_classes: ['__background__', 'car', 'person']
+bayesian_road_pixels: 84989
+deeplab_non_background_pixels: 61943
+overlap_pixels: 2601
+iou_bayes_vs_deeplab_non_background: 0.018021
+note: VOC pretrained DeepLabV3 has no road/lane class, so the result is not a direct lane detector.
